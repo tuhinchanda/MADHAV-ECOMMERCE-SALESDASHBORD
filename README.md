@@ -1,5 +1,5 @@
 # MADHAV-ECOMMERCE-SALESDASHBORD
-https://github.com/tuhinchanda/MADHAV-ECOMMERCE-SALESDASHBORD/blob/main/SS%20of%201st.jpg
+
 This project focuses on analyzing and visualizing sales performance data for an e-commerce business using Advanced Excel and Power BI.
 
 🔍 Purpose:
@@ -30,3 +30,4 @@ Dynamic Filters for Region, Product Line, and Time Period
 
 Performance Comparison with insightful visualizations
 
+https://github.com/tuhinchanda/MADHAV-ECOMMERCE-SALESDASHBORD/blob/main/SS%20of%201st.jpg
